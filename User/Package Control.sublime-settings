@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"ColorPicker",
+		"GitGutter",
+		"SFTP",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-javac",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"Theme - Nil",
+		"Vintage-Origami",
+		"Vintageous"
+	]
+}
